@@ -62,8 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Decode a Morse code message] <a name="about-project"></a>
 
-During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
-
+During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs. However, you are getting tired of decrypting messages manually. This program in Ruby can help by automating this process.
 
 ## 🛠 Built With <a name="built-with"></a>
 
