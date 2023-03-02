@@ -47,8 +47,8 @@ def decode_word(morse_word)
 end
 
 def decode(morse_message)
-  morse_message.split("   ").map { |morse_word| decode_word(morse_word) }.join(" ")
+  morse_message.split('   ').map { |morse_word| decode_word(morse_word) }.join(' ')
 end
 
-message = ".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."
-puts decode(message) #=> "ABFULL OF RUBIES"
+message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+puts decode(message) #=> "A BOX FULL OF RUBIES"
