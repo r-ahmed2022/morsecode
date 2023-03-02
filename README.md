@@ -1,39 +1,3 @@
-## Getting Started
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-- Broad Understanding of Ruby
-- Git & github
-
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -42,14 +6,11 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -62,7 +23,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Decode a Morse code message] <a name="about-project"></a>
 
-During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs. However, you are getting tired of decrypting messages manually. This program in Ruby can help by automating this process.
+During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -79,26 +41,26 @@ During your vacation at the seaside, time after time you find old bottles with p
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
+- **[Capable of decoding a complete sentence]**
+- **[Capable of decoding a single character]**
 
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+## 💻 Getting Started <a name="getting-started"></a>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://github.com/r-ahmed2022/morsecode)
-
+To get a local copy up and running, follow these steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
 In order to run this project you need:
 
-- PostgreSQL 
+```sh
+   You need to have ruby installed
+```
 
 ### Setup
 
@@ -121,37 +83,11 @@ Install this project with:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  ruby MyList.rb
 ```
---->
 
-### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,13 +106,13 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/DonaldAkite)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/donald-akite-299a31222/)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
+- [ ] **[Decode story books]**
+- [ ] **[Add a UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,7 +138,7 @@ If you like this project then do share this project with your friends and don't 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Microverse
+I would like to thank Microverse for giving me this experience.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
