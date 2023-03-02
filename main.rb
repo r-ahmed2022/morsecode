@@ -52,3 +52,5 @@ end
 
 message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 puts decode(message) #=> "A BOX FULL OF RUBIES"
+
+puts decode('-- -.--   -. .- -- .') # MY NAME
